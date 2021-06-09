@@ -37,7 +37,7 @@ class _HomePageScreenState extends State<HomePageScreen> {
               ),
               //const SizedBox(height: 10),
               Container(
-                padding: EdgeInsets.fromLTRB(30.0, 10.0, 30.0, 10.0),
+                padding: EdgeInsets.fromLTRB(30.0, 0.0, 30.0, 10.0),
                 child: Text(
                   'Hello,',
                   style: TextStyle(
